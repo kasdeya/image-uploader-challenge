@@ -9,10 +9,7 @@
 
 ![screenshot](./public/screenshot.png)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+[Live Demo](https://image-uploader-challenge-six.vercel.app/)
 
 ### Built With
 
